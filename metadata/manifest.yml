@@ -9,7 +9,7 @@ Display-Name: Node.js
 Cartridge-Short-Name: NODEJS
 Cartridge-Version: '2.3.0'
 Cartridge-Vendor: sikksens
-Source-Url: https://github.com/Sikksens/openshift-cartridge-nodejs.git
+Source-Url: https://github.com/sikksens/openshift-cartridge-nodejs.git
 Categories:
 - service
 - javascript
