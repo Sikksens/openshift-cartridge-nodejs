@@ -1,13 +1,13 @@
 Name: nodejs
 Description: Custom Node.js cartridge auto-updating to the latest stable version on each build.
-Version: '4.2.4'
+Version: '5.12.0'
 License: Node.js License
 License-Url: https://raw.githubusercontent.com/nodejs/node/master/LICENSE
 Vendor: www.nodejs.org
 Website: http://www.nodejs.org/
 Display-Name: Node.js
 Cartridge-Short-Name: NODEJS
-Cartridge-Version: '2.3.0'
+Cartridge-Version: '2.3.2'
 Cartridge-Vendor: sikksens
 Source-Url: https://github.com/sikksens/openshift-cartridge-nodejs.git
 Categories:
